@@ -44,7 +44,7 @@ public class App {
         });
     }
 
-    // dQuad Input (127.01.01.01), Symbolic output
+    // dQuad Input (127.001.01.01), Symbolic output
     public String dQuadInet(String s) throws UnknownHostException {
         try {
             InetAddress dQuadInet = InetAddress.getByName(s);

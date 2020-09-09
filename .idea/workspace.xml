@@ -2,12 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7594c1e9-b38c-420c-ae73-6ca6add2602e" name="Default Changelist" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/InetAddress/App$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InetAddress/App$2.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/InetAddress/App.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/InetAddress/App.class" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/App.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/App.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/~$etAddress.docx" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +76,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1599676029844</updated>
-      <workItem from="1599676032915" duration="11148000" />
+      <workItem from="1599676032915" duration="11316000" />
     </task>
     <servers />
   </component>
@@ -102,22 +100,22 @@
       <screen x="0" y="23" width="1680" height="976" />
     </state>
     <state x="583" y="307" key="#com.intellij.ide.util.TreeClassChooserDialog/0.23.1680.976@0.23.1680.976" timestamp="1599678408140" />
-    <state width="1468" height="260" key="GridCell.Tab.0.bottom" timestamp="1599692052544">
+    <state width="1468" height="260" key="GridCell.Tab.0.bottom" timestamp="1599692178362">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1599692052544" />
-    <state width="1468" height="260" key="GridCell.Tab.0.center" timestamp="1599692052541">
+    <state width="1468" height="260" key="GridCell.Tab.0.bottom/0.23.1680.976@0.23.1680.976" timestamp="1599692178362" />
+    <state width="1468" height="260" key="GridCell.Tab.0.center" timestamp="1599692178360">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1599692052541" />
-    <state width="1468" height="260" key="GridCell.Tab.0.left" timestamp="1599692052535">
+    <state width="1468" height="260" key="GridCell.Tab.0.center/0.23.1680.976@0.23.1680.976" timestamp="1599692178360" />
+    <state width="1468" height="260" key="GridCell.Tab.0.left" timestamp="1599692178359">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1599692052535" />
-    <state width="1468" height="260" key="GridCell.Tab.0.right" timestamp="1599692052544">
+    <state width="1468" height="260" key="GridCell.Tab.0.left/0.23.1680.976@0.23.1680.976" timestamp="1599692178359" />
+    <state width="1468" height="260" key="GridCell.Tab.0.right" timestamp="1599692178361">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
-    <state width="1468" height="260" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1599692052544" />
+    <state width="1468" height="260" key="GridCell.Tab.0.right/0.23.1680.976@0.23.1680.976" timestamp="1599692178361" />
     <state width="1468" height="321" key="GridCell.Tab.1.bottom" timestamp="1599678510900">
       <screen x="0" y="23" width="1680" height="976" />
     </state>
