@@ -14,12 +14,8 @@ public class App {
     private JTextField dQuadText;
 
     public App() {
-        // TODO: controlling input + button enabling for dQuad.
-        // TODO: controlling input + button enabling for symbolic.
-        // TODO: limit dQuad input to just IPs
-        // TODO: OPTIONAL limit symbolic input to legit web addresses?
-        // TODO: OPTIONAL display errors and BS to user instead of in console.
 
+        // controls for dQuad to symbolic button
         dQuadToSymButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
@@ -33,6 +29,7 @@ public class App {
             }
         });
 
+        // controls for symbolic to dQuad button
         symToDQuadButton.addActionListener(new ActionListener() {
             @Override
             public void actionPerformed(ActionEvent e) {
